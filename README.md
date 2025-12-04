@@ -127,6 +127,17 @@ O dashboard inclui:
 
 Arquivo: **alurabi.pbix**
 
+
+
+<p align="center">
+  <img width="1142" height="657" alt="Dashboard de Faturamento" src="https://github.com/user-attachments/assets/6427c293-0c3d-40f6-b51c-e614414595a0" />
+</p>
+
+<p align="center">
+  <img width="1145" height="648" alt="Dashboard Estrategico" src="https://github.com/user-attachments/assets/2d6f39bc-1ff6-40de-a639-b34337904ffb" />
+</p>
+
+
 ---
 
 # 🚀 8. Como Executar o Projeto
